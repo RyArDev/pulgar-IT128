@@ -1,1 +1,3 @@
-# pulgar-IT128
+John Rhyz B. Pulgar
+IT128L-FOPI01
+BSIT
